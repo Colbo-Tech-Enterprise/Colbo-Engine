@@ -4,3 +4,5 @@
 <p align="center">
   <img src="assets/images/logo.svg" alt="Colbo Engine Logo" width="300">
 </p>
+<hr>
+© 2026 Colbo Tech Enterprise™
